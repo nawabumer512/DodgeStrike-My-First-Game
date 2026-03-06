@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Runner Game 
+// Name        : DodgeStrike Game 
 // Author      : M Umar farooq
 // Copyright   : (c) Reserved
 // Description : Basic 2D game
