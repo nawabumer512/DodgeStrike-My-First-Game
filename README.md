@@ -8,11 +8,12 @@ A 2D OpenGL arcade game built in C++ where you control a player character, dodge
 
 ## 📁 Repository & Folder Structure
 
-**Repository name:** `pfs-game`  
+**Repository name:** `DodgeStrike-My-First-Game`  
 **Folder structure:**
 
 ```
-pfs-game/
+DodgeStrike-My-First-Game
+/
 ├── game-release.cpp      # Main game logic (player, obstacles, collision, timer)
 ├── util.cpp              # OpenGL drawing utility functions
 ├── util.h                # Header file — color definitions, function declarations
