@@ -1,8 +1,12 @@
 # DodgeStrike-My-First-Game
 # PF's Game 🎮
-### CS1002 - Programming Fundamentals | NUCES Multan Campus
-
 A 2D OpenGL arcade game built in C++ where you control a player character, dodge falling obstacles, collect coins, and survive against a computer-controlled villain.
+
+We were provided with pre-built OpenGL utility functions and two 
+static shapes (a square and a circle) as a starting point — I then 
+applied my Programming Fundamentals skills to bring them to life by 
+adding movement, collision detection, a player character, a villain, 
+coin collection, scoring, and a complete playable game.
 
 ---
 
